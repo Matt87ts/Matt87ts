@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional, <a href="https://github.com/joshmadakor1">Programmer</a></a></h1>
+<h1>Hi, I'm Matthew! <br/><a href="https://profile.indeed.com/p/matthews-rm8rq4p">Cybersecurity Professional, <a href="https://github.com/Matt87ts">Programmer</a></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -11,7 +11,7 @@
 
 <h2>📄Certifications</h2>
 
-- Google Cybersecurity(
+- Google Cybersecurity - Expected 3/2024 (
 https://www.coursera.org/account/accomplishments/certificate/V6USYN94VGL6)
 
 
